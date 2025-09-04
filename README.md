@@ -16,6 +16,7 @@ Main Menu
   Retrieve information from the internet (like weather).
   Simulate a dice roll.
   Allow the user to update their password.
+  Create a triangle pattern of a user given length.
   
 User Experience
   Make sure the program keeps running until the user chooses to exit.
