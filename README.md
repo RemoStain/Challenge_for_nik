@@ -1,7 +1,7 @@
 # Challenge_for_nik
 This is the challenge that Nik sees:
 
-  Challenge for Nikolai
+  Challenge for Nikolai (but really anyone)
 
   Create a small console-based program that does the following:
 
@@ -24,4 +24,5 @@ User Experience
   Invalid inputs should be handled gracefully.
 
 
-After Nik creates his code, it will be added to the repo and will be compared to a private repo with my version.
+After you create your code, it will be added to the repo and will be compared to a private repo with my version.
+I will release my version once Nikolai submits his version
